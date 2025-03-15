@@ -1,0 +1,17 @@
+{
+    "grid_size": {
+        "width": 5,
+        "height": 5
+    },
+    "starting_tiles": [
+        { "x": 0, "y": 4, "type": "TwoVertical", "colors": ["blue", "green", "blue", "green"] },
+        { "x": 0, "y": 3, "type": "MixedShape", "colors": ["yellow", "red", "yellow", "blue"] },
+        { "x": 4, "y": 4, "type": "LShapeMirrored", "colors": ["purple", "orange", "yellow","yellow"] }
+    ],
+    "next_tile": {
+        "type": "TwoHorizontal",
+        "colors": ["red", "red", "yellow", "yellow"]
+    },
+    "goal_count": 10
+}
+

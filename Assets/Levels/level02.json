@@ -1,0 +1,18 @@
+{
+    "grid_size": {
+        "width": 5,
+        "height": 5
+    },
+    "starting_tiles": [
+        { "x": 0, "y": 4, "type": "TwoHorizontal", "colors": ["purple", "purple", "yellow", "yellow"] },
+        { "x": 1, "y": 4, "type": "TwoHorizontal", "colors": ["green", "green", "red", "red"] },
+        { "x": 2, "y": 4, "type": "Single", "colors": ["blue", "blue", "blue", "blue"] },
+        { "x": 3, "y": 4, "type": "TwoHorizontal", "colors": ["green", "green", "red", "red"] },
+        { "x": 4, "y": 4, "type": "TwoHorizontal", "colors": ["purple", "purple", "yellow", "yellow"] }
+    ],
+    "next_tile": {
+        "type": "TwoHorizontal",
+        "colors": ["purple", "purple", "yellow", "yellow"]
+    },
+    "goal_count": 12
+}

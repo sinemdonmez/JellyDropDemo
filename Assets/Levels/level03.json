@@ -1,0 +1,32 @@
+{
+    "grid_size": {
+        "width": 5,
+        "height": 5
+    },
+    "starting_tiles": [
+        { "x": 0, "y": 4, "type": "Single", "colors": ["blue", "blue", "blue", "blue"] },
+        { "x": 1, "y": 4, "type": "Single", "colors": ["yellow", "yellow", "yellow", "yellow"] },
+        { "x": 2, "y": 4, "type": "Single", "colors": ["blue", "blue", "blue", "blue"]  },
+        { "x": 3, "y": 4, "type": "Single", "colors": ["orange", "orange", "orange", "orange"] },
+        { "x": 4, "y": 4, "type": "Single", "colors": ["red", "red", "red", "red"]  },
+        
+        { "x": 0, "y": 3, "type": "Single", "colors": ["red", "red", "red", "red"] },
+        { "x": 1, "y": 3, "type": "Single", "colors": ["blue", "blue", "blue", "blue"] },
+        { "x": 2, "y": 3, "type": "Single", "colors": ["yellow", "yellow", "yellow", "yellow"] },
+        { "x": 3, "y": 3, "type": "Single", "colors": ["red", "red", "red", "red"] },
+        { "x": 4, "y": 3, "type": "Single", "colors": ["blue", "blue", "blue", "blue"] },
+
+        { "x": 0, "y": 2, "type": "Single", "colors": ["blue", "blue", "blue", "blue"] },
+        { "x": 1, "y": 2, "type": "Single", "colors": ["yellow", "yellow", "yellow", "yellow"] },
+        { "x": 2, "y": 2, "type": "Single", "colors": ["blue", "blue", "blue", "blue"]  },
+        { "x": 3, "y": 2, "type": "Single", "colors": ["orange", "orange", "orange", "orange"] },
+        { "x": 4, "y": 2, "type": "Single", "colors": ["red", "red", "red", "red"]  }
+    ],
+    "next_tile": {
+        "type": "Single",
+        "colors": ["blue", "blue", "blue", "blue"]
+    },
+    "goal_count": 15
+}
+
+
